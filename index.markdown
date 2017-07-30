@@ -8,13 +8,13 @@ title: VSPG Sivani
 
 ### A bit about me...
 
-I'm Sri Purna Gayatri Sivani Vishnubhotla, a budding violinist from Vijayawada, AP, India.
+I'm **_Sri Purna Gayatri Sivani Vishnubhotla_**, a budding violinist from Vijayawada, AP, India.
 
 
 ### A bit more...
 
 >Young and Talented... Pleasing Recital                             
->>-The Hindu
+>>-**The Hindu**
                     
 I'm a child prodigy who strives to advance always in terms of knowledge of music and divinity. I play Indian Classical Music and performed at esteemed institutions.
 
