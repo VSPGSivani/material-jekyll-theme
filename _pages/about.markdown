@@ -3,6 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a *passionate* violinist from India. I'm a **Telugu** native and had primary tutelage under my mother, **_Smt. Arundhati Vishnubhotla_**. My father's **_Sri Lakshmi Narasimha Murthy_**. I initially set out as a *vocalist*, but later was carried out by the violin. I'm currently learning at **_Sri G. Srinivasa Murthy_** and **_Smt. Narmada Gopalakrishnan_**, daughter of the late legend **_Sri MS Gopalakrishnan_**.
