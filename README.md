@@ -1,23 +1,7 @@
-# material-jekyll-theme
-[Demo](http://alexcarpenter.github.io/material-jekyll-theme)
+# VSPG Sivani's Website
 
-![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
+![VSPG Sivani](https://github.com/SriramaKumar/msg-material/raw/master/images/10393759_400996533418432_4595435971200380334_n.jpg)
 
-## Getting started
-1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
-2. `cd material-jekyll-theme`
-3. Configure the `_config.yml` file as needed
-4. `jekyll serve`
-
-## Options
-Customize your options within the `_config.yml` file.
-
-+ Theme
-  - Green
-  - Blue
-  - Orange
-  - Purple
-  - Grey
-+ Fixed Navigation
-  - True
-  - False
+## Know More
+Please visit us at [Facebook](https://facebook.com/VSPGSivani)
+Also, subscribe us at [YouTube](https://www.youtube.com/channel/UCp_e3xOJ_dZv7mRPbiQwbWA/videos)
