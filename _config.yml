@@ -5,7 +5,7 @@ baseurl: "" # the subpath of my site, e.g. /blog
 url: "https://vspgs.github.io" # the base hostname & protocol for your site
 
 # Social
-githubUsername:vspgs
+githubUsername: vspgs
 
 # Build settings
 markdown: kramdown
