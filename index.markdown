@@ -13,9 +13,8 @@ I'm Sri Purna Gayatri Sivani Vishnubhotla, a budding violinist from Vijayawada, 
 
 ### A bit more...
 
-` Young and Talented... Pleasing Recital
-                             
-                             -The Hindu`
+` Young and Talented... Pleasing Recital                             
+                             -The Hindu
                     
 I'm a child prodigy who strives to advance always in terms of knowledge of music and divinity. I play Indian Classical Music and performed at esteemed institutions.
 
