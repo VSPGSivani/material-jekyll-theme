@@ -1,5 +1,5 @@
 ﻿
-<div style="text-align:right "><h1> V S P G Sivani</h1></div>
+# V S P G Sivani
 ---
 > Born in _2004_, **Vishnubhotla Sri Purna Gayatri Sivani** started her career in the field of music at her mother when she was three. She laid her her foundations at her mother as a vocalist. By seven, she started her life as a violinist at **Shri Ganduri Srinivasa Murthy** and quickly grasped the basics. Over months, she strengthened her foundations and gave her debut when she was nine at the prestigious _Saraswathi Gana Sabha_, _Kakinada_. Afterwards, she advanced into the path under the guidance of Shri **Narmada Gopalakrishnan**. She is now a disciple of *Sangeetha Kalanidhi* Shri **M. Chandrasekharan**. 
 
