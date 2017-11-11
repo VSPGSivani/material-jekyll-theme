@@ -41,4 +41,5 @@ Besides, she performed iconic concerts at famous organizations like **Sangeetha 
 - **First** in _Rasikaranjana Sabha_, Trichy, Tamilnadu. ['16]
 - **First** in _Shanmukhananda Bharathiya Sangeethya Vidyalaya_, Mumbai. ['17]
 - **First** in _Ragam Tanam Pallavi_ by _Sri Subrahmanya Mahathi Sangeetha Samithi_. ['17]
+- **Second** in _Madras Music Academy_, **Chennai**. ['17]
 - Selected for **_CCRT_** Scholarship from **2016**.
