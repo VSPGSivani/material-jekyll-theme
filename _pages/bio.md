@@ -1,7 +1,7 @@
 ﻿
 # V S P G Sivani
 ---
- <div style="text-align:center"><img src ="https://github.com/vspgs/vspgs.github.io/raw/master/images/20140316185458%20(2).JPG" /></div>
+![](https://github.com/vspgs/vspgs.github.io/raw/master/images/20140316185458%20(2).JPG)
 
 ### Contact 
 ✆ [+91 94918 28298](tel:+919491828298)
